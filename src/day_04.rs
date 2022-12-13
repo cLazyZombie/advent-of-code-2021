@@ -196,6 +196,6 @@ mod tests {
     fn test_part2() {
         let input = include_str!("../input/day_04.txt");
         let answer = solve_part2(input);
-        assert_eq!(answer, 39984);
+        assert_eq!(answer, 8468);
     }
 }
